@@ -1,6 +1,7 @@
 ﻿using System.Text.Json;
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
+using CounterStrikeSharp.API.Core.Attributes;
 using CounterStrikeSharp.API.Core.Attributes.Registration;
 using CounterStrikeSharp.API.Modules.Admin;
 using CounterStrikeSharp.API.Modules.Commands;
@@ -12,6 +13,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Duels;
 
+[MinimumApiVersion(142)]
 public partial class Duel : BasePlugin
 {
 	public override string ModuleName => "Duel";
