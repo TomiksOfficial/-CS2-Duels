@@ -1,4 +1,8 @@
 # CS2-Duels
+
+# CounterStrikeSharp v142+
+# Linux ONLY
+
 # RU:
 # Описание
 Плагин добавляет систему дуэлей 1 на 1 для двух последних живых игроков.
@@ -17,6 +21,9 @@
 3. Телепорт дуэлянтов на заранее установленные позиции на карте
 4. Выбор любого огнестрельного оружия или ножа в качестве оружия для дуэли
 
+# Установка
+Распаковать папку из архива Duels в папку plugins
+
 # EN:
 # Description
 The plugin adds a  1vs 1 duel system for the last two live players.
@@ -34,3 +41,6 @@ To save the positions, you need to write duel_savepos after installation
 2. Restore health to 100 at the start of the duel
 3. Teleport duelists to predetermined positions on the map
 4. Choice of any firearm or knife as a duel weapon
+
+# Installation
+Extract the folder from the Duels release archive to the plugins folder
