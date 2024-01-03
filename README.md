@@ -8,9 +8,9 @@
 Чтобы сохранить позиции необходимо после установки написать duel_savepos
 
 # Команды
-* duel_setpos <1 или 2> - установка первой и второй позиции для телепорта дуэлянтов после начала дуэли.
-* duel_savepos - сохранение позиций, установленных на карте.
-* duel_load - загрузка позиций карты(данные сами загружаются при каждом начале карты)
+* duel_setpos <1 или 2> - установка первой и второй позиции для телепорта дуэлянтов после начала дуэли. | ROOT ONLY
+* duel_savepos - сохранение позиций, установленных на карте. | ROOT ONLY
+* duel_load - загрузка позиций карты(данные сами загружаются при каждом начале карты) | ROOT ONLY
 
 # Особенности
 1. Бессмертие во время голосования за дуэль
@@ -33,9 +33,9 @@ The positions for teleporting players are set using the duel_setpos <1 or 2> com
 To save the positions, you need to write duel_savepos after installation
 
 # Commands
-* duel_setpos <1 или 2> - setting the first and second positions for teleporting duelists after the start of the duel.
-* duel_savepos - saving the positions set on the map.
-* duel_load - loading of map positions (data is loaded by itself each time the map is started)
+* duel_setpos <1 или 2> - setting the first and second positions for teleporting duelists after the start of the duel. | ROOT ONLY
+* duel_savepos - saving the positions set on the map. | ROOT ONLY
+* duel_load - loading of map positions (data is loaded by itself each time the map is started) | ROOT ONLY
 
 # Features
 1. Immortality while voting for a duel
