@@ -17,7 +17,7 @@ namespace Duels;
 public partial class Duel : BasePlugin
 {
 	public override string ModuleName => "Duel";
-	public override string ModuleVersion => "0.1.0";
+	public override string ModuleVersion => "0.1.1";
 	public override string ModuleDescription => "Duels between players";
 	public override string ModuleAuthor => "Tomiks(vk.com/tomiksofficial)";
 

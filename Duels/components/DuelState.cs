@@ -28,7 +28,7 @@ public partial class DuelState
 
 	private void StartDuel(CCSPlayerController player, CCSPlayerController opponent)
 	{
-		if(state is DuelState_t.DUEL_NOT)
+		if(state is DuelState_t.DUEL_VOTE)
 		{
 			VoteState.Clear();
 
